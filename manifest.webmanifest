@@ -1,0 +1,23 @@
+{
+  "name": "To-do list",
+  "short_name": "To-do",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Task manager",
+  "theme_color": "#009578",
+  "icons": [
+    {
+      "src": "image/to-do.png",
+      "sizes": "512x512",
+      "type": "image/png"
+
+    },
+    {
+        "src": "image/to-do.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+  ]
+}
