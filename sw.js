@@ -23,6 +23,3 @@ self.addEventListener("fetch", e => {
     );
 })
 
-self.addEventListener('activate', e => {
-    self.clients.claim();
-});
