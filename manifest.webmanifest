@@ -8,16 +8,16 @@
   "theme_color": "#009578",
   "icons": [
     {
-      "src": "image/to-do.png",
+      "src": "image/to-do-512.png",
       "sizes": "512x512",
       "type": "image/png"
 
     },
     {
-        "src": "image/to-do.png",
-        "sizes": "196x196",
+        "src": "image/to-do-192.png",
+        "sizes": "192x192",
         "type": "image/png",
-        "purpose": "any maskable"
+        "purpose": "maskable"
       }
   ]
 }
